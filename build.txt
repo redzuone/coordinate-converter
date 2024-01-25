@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --noconsole --clean coordinate_converter.py
